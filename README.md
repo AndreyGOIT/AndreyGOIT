@@ -1,4 +1,4 @@
-### Andrey (Andy) Erokhin | Full Stack Dev 👋
+### Andrey (Andy) Erokhin | Full Stack Developer
 
 | Porvoo, Finland | and.ero@icloud.com | 044 0664479 |
 |----------------|-----------|---------------|
