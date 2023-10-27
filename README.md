@@ -1,6 +1,6 @@
 ### Andrey (Andy) Erokhin | Full Stack Developer
 
-| Porvoo, Finland | and.ero@icloud.com | 044 0664479 |
+| Porvoo, Finland | and.ero@icloud.com | mob. |
 |----------------|-----------|---------------|
 | [andero.netlify.app](https://andero.netlify.app) | [linkedin.com/in/andrey-erokhin](https://www.linkedin.com/in/andrey-erokhin/) | [github.com/AndreyGOIT](https://github.com/AndreyGOIT) | and.ero@icloud.com |
 
