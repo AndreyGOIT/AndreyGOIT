@@ -1,6 +1,6 @@
 ### Andrey (Andy) Erokhin | Full Stack Developer
 
-|             and.ero@icloud.com             |
+|                |and.ero@icloud.com|        |
 |----------------|-----------|---------------|
 | [andero.netlify.app](https://andero.netlify.app) | [linkedin.com/in/andrey-erokhin](https://www.linkedin.com/in/andrey-erokhin/) | [github.com/AndreyGOIT](https://github.com/AndreyGOIT) | and.ero@icloud.com |
 
