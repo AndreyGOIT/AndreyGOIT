@@ -1,6 +1,6 @@
 ### Andrey (Andy) Erokhin | Full Stack Developer
 
-| Porvoo, Finland | and.ero@icloud.com | mob. |
+|             and.ero@icloud.com             |
 |----------------|-----------|---------------|
 | [andero.netlify.app](https://andero.netlify.app) | [linkedin.com/in/andrey-erokhin](https://www.linkedin.com/in/andrey-erokhin/) | [github.com/AndreyGOIT](https://github.com/AndreyGOIT) | and.ero@icloud.com |
 
@@ -10,12 +10,12 @@ _👋 Hi there! I'm Andy, a passionate and results-driven full stack developer. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Ecoline Oy
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: and.ero@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 </details>
 -->
+- 🔭 I’m currently working on Ecoline Oy
+- 🌱 I’m currently learning NextJS
+- 📫 How to reach me: and.ero@icloud.com
 
 ## Hard Skills
 - HTML, CSS, JavaScript, React JS, Node JS, Redux, Git, Webpack, REST API, AJAX, CRUD, MongoDB, ChatGPT
